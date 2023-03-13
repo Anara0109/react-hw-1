@@ -1,0 +1,19 @@
+#root{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(0, 143, 153);
+}
+.main-block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgb(0, 143, 153);
+    border-radius: 7px;
+    padding: 20px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
